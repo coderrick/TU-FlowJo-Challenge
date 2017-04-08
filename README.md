@@ -1,5 +1,5 @@
 # TU-FlowJo-Challenge
-Java plugin for FlowJo Software to visually represent cells. Includes Web App that 
+FlowJo Java plugin that allows you to stream data to a web app via websocket 
 
 ## Installation instructions
 
